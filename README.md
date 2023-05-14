@@ -1,7 +1,7 @@
 # ShipRealWind-Calculatior--SOFTWARE-TESTING
 
 
-<img src="https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/88837883-aa03-4085-8193-8f12b548b9a3" width="800" height="400" />
+<img src="https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/88837883-aa03-4085-8193-8f12b548b9a3" width="600" height="400" />
 
 
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/88837883-aa03-4085-8193-8f12b548b9a3)
