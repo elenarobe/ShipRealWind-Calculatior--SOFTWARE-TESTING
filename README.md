@@ -9,6 +9,8 @@
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/7ce21064-7483-47e3-a383-5a3572dae42c)
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/53f9b5d2-cc89-49fc-af98-7651bdb2b4a5)
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/57f96371-7072-4b5d-aeee-ded3db053acd)
+![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/943569eb-15eb-4a02-b566-758f6a632fbb)
+
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/64b30db0-4a45-4f5a-aa18-e2c3683461f0)
 ![image](https://github.com/elenarobe/ShipRealWind-Calculatior--SOFTWARE-TESTING/assets/121317737/2e4e5a34-35bd-49a9-9977-229afd94600a)
 
